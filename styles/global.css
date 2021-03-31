@@ -1,0 +1,37 @@
+.highlight {
+  @apply text-gold;
+}
+
+.filter-shadow {
+  filter: drop-shadow(4px 4px 8px #000);
+}
+
+.location-map {
+  grid-template-columns: minmax(0, auto) repeat(3, minmax(300px, 420px)) minmax(
+      0,
+      auto
+    );
+  @apply grid w-full min-h-full grid-rows-1;
+  height: 500px;
+}
+
+.location-map .map-wrapper {
+  @apply w-full col-span-full row-span-full;
+}
+
+.location-map div {
+  @apply z-50 flex flex-col justify-center col-start-2 row-start-1 text-lg text-white pointer-events-none;
+}
+
+.location-map__location {
+  @apply font-sans text-xl font-semibold tracking-wide text-white;
+}
+
+.location-map h2 {
+  @apply mb-8 font-serif text-5xl leading-normal;
+}
+
+.location-map img {
+  transform: rotate(-10deg);
+  @apply self-center col-start-3 pointer-events-none justify-self-center;
+}

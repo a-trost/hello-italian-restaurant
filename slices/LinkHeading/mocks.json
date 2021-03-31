@@ -1,0 +1,25 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "LinkHeading",
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Our menu",
+          "spans": []
+        }
+      ],
+      "linkText": "Make a reservation",
+      "link": {
+        "link_type": "Web",
+        "url": "https://slicemachine.dev"
+      }
+    },
+    "items": [],
+    "slice_type": "link_heading"
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "id": "gallery_mosaic",
+  "type": "SharedSlice",
+  "name": "GalleryMosaic",
+  "description": "GalleryMosaic",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "GalleryMosaic",
+      "primary": {
+        "image1": {
+          "config": {
+            "label": "",
+            "constraint": {
+              "width": 624,
+              "height": 400
+            },
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "image2": {
+          "config": {
+            "label": "",
+            "constraint": {
+              "width": 624,
+              "height": 800
+            },
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "image3": {
+          "config": {
+            "label": "",
+            "constraint": {
+              "width": 624,
+              "height": 800
+            },
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "image4": {
+          "config": {
+            "label": "",
+            "constraint": {
+              "width": 624,
+              "height": 400
+            },
+            "thumbnails": []
+          },
+          "type": "Image"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

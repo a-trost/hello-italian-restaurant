@@ -1,0 +1,20 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "FullWidthText",
+    "primary": {
+      "text": [
+        {
+          "type": "paragraph",
+          "text": "Fall in love with our authentic cuisine. Family recipes made from the freshest ingredients we can find. ",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "full_width_text"
+  }
+]

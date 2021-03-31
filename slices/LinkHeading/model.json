@@ -1,0 +1,43 @@
+{
+  "id": "link_heading",
+  "type": "SharedSlice",
+  "name": "LinkHeading",
+  "description": "LinkHeading",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "LinkHeading",
+      "primary": {
+        "title": {
+          "config": {
+            "label": "Title",
+            "placeholder": "Our Menu",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          },
+          "type": "StructuredText"
+        },
+        "linkText": {
+          "config": {
+            "label": "Link text",
+            "placeholder": "Click Here"
+          },
+          "type": "Text"
+        },
+        "link": {
+          "type": "Link",
+          "config": {
+            "label": "",
+            "id": "link",
+            "placeholder": "",
+            "allowTargetBlank": true
+          }
+        }
+      },
+      "items": {}
+    }
+  ]
+}

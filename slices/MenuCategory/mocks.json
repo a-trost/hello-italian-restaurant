@@ -1,0 +1,25 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "MenuCategory",
+    "primary": {
+      "category": "pizzas"
+    },
+    "items": [
+      {
+        "item": "Margarita",
+        "price": "$7.99",
+        "ingredients": "Cheese, tomato, spinach, olive oil"
+      },
+      {
+        "item": "Margarita",
+        "price": "$7.99",
+        "ingredients": "Cheese, tomato, spinach, olive oil"
+      }
+    ],
+    "slice_type": "menu_category"
+  }
+]

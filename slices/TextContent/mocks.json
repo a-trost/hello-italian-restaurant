@@ -1,0 +1,32 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "TextContent",
+    "primary": {
+      "title": [
+        {
+          "type": "heading1",
+          "text": "Great recipes start with a great story",
+          "spans": []
+        }
+      ],
+      "description": [
+        {
+          "type": "paragraph",
+          "text": "Our recipes have been in the family for generations. Our great grandfather hand rolled his gnocci in the heart of Florence, Italy. His award winning pasta recipe has been passed down in the family as a rite of passage.",
+          "spans": []
+        },
+        {
+          "type": "paragraph",
+          "text": "Now we bring the flavors of Italy to New York. With the spirit of our ancestors, we keep the same ingredients our great grandfather would have used. Because tradition is everything to us. ",
+          "spans": []
+        }
+      ]
+    },
+    "items": [],
+    "slice_type": "text_content"
+  }
+]

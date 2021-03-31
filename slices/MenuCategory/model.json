@@ -1,0 +1,52 @@
+{
+  "id": "menu_category",
+  "type": "SharedSlice",
+  "name": "MenuCategory",
+  "description": "MenuCategory",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "MenuCategory",
+      "primary": {
+        "category": {
+          "config": {
+            "label": "Category",
+            "placeholder": "",
+            "options": [
+              "starters",
+              "pizzas"
+            ],
+            "default_value": "starters"
+          },
+          "type": "Select"
+        }
+      },
+      "items": {
+        "item": {
+          "config": {
+            "label": "Menu Item",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "price": {
+          "config": {
+            "label": "Price",
+            "placeholder": ""
+          },
+          "type": "Text"
+        },
+        "ingredients": {
+          "config": {
+            "label": "Ingredients",
+            "placeholder": ""
+          },
+          "type": "Text"
+        }
+      }
+    }
+  ]
+}

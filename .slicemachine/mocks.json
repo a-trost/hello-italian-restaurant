@@ -1,0 +1,78 @@
+{
+  "FullWidthText": {
+    "primary": {
+      "text": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "FullWidthImage": {
+    "primary": {
+      "image": {
+        "content": "https://images.unsplash.com/photo-1496564203457-11bb12075d90"
+      }
+    }
+  },
+  "TextContent": {
+    "primary": {
+      "description": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 2
+        }
+      },
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "LinkHeading": {
+    "primary": {
+      "linkText": {
+        "content": "Make a reservation"
+      },
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    }
+  },
+  "GalleryMosaic": {},
+  "MenuCategory": {
+    "items": {
+      "price": {
+        "content": "$7.99"
+      },
+      "item": {
+        "content": "Margarita"
+      },
+      "ingredients": {
+        "content": "Cheese, tomato, spinach, olive oil"
+      }
+    }
+  },
+  "LocationMap": {
+    "primary": {
+      "address": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "title": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "FullWidthImage",
+    "primary": {
+      "image": {
+        "dimensions": {
+          "width": 900,
+          "height": 500
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1496564203457-11bb12075d90?w=1300&h=800&fit=crop"
+      }
+    },
+    "items": [],
+    "slice_type": "full_width_image"
+  }
+]

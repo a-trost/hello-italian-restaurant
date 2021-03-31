@@ -1,0 +1,28 @@
+{
+  "id": "full_width_text",
+  "type": "SharedSlice",
+  "name": "FullWidthText",
+  "description": "FullWidthText",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "FullWidthText",
+      "primary": {
+        "text": {
+          "config": {
+            "label": "Text",
+            "labels": ["highlight"],
+            "placeholder": "Fall in love...",
+            "allowTargetBlank": true,
+            "single": "paragraph,preformatted,heading1,heading2,heading3,heading4,heading5,heading6,strong,em,hyperlink,image,embed,list-item,o-list-item,rtl"
+          },
+          "type": "StructuredText"
+        }
+      },
+      "items": {}
+    }
+  ]
+}
