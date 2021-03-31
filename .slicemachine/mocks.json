@@ -58,21 +58,5 @@
         "content": "Cheese, tomato, spinach, olive oil"
       }
     }
-  },
-  "LocationMap": {
-    "primary": {
-      "address": {
-        "config": {
-          "patternType": "PARAGRAPH",
-          "blocks": 1
-        }
-      },
-      "title": {
-        "config": {
-          "patternType": "HEADING",
-          "blocks": 1
-        }
-      }
-    }
   }
 }
