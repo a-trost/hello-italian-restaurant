@@ -1,0 +1,40 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "LocationMap",
+    "primary": {
+      "title": [
+        {
+          "type": "heading2",
+          "text": "Brand bleeding-edge functionalities",
+          "spans": []
+        }
+      ],
+      "address": [
+        {
+          "type": "paragraph",
+          "text": "Ullamco sit incididunt cupidatat et elit et adipisicing officia ut dolor aliqua.",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 243,
+          "height": 365
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1586952518485-11b180e92764?w=243&h=365&fit=crop"
+      },
+      "location": {
+        "latitude": 48.8703712,
+        "longitude": 2.3865198
+      }
+    },
+    "items": [],
+    "slice_type": "location_map"
+  }
+]
