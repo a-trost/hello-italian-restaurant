@@ -3,7 +3,7 @@ import { Link, RichText } from "prismic-reactjs";
 import ArrowIcon from "../../components/ArrowIcon";
 
 const MySlice = ({ slice }) => (
-  <section className="flex justify-center px-6 pt-32 pb-8 font-serif text-center text-white bg-black">
+  <section className="flex justify-center px-6 py-16 font-serif text-center text-white bg-black">
     <div className="flex justify-between w-full max-w-7xl">
       <h2 className="text-6xl">{RichText.asText(slice.primary.title)}</h2>
       <a
