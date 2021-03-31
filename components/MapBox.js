@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import MapGL, { Marker } from "react-map-gl";
 import HelloLogo from "./HelloLogo";
 
-export default function MapBox({ latLong, className = "" }) {
+export default function MapBox({ latLong }) {
   const latitude = latLong.latitude || 40.733543;
   const longitude = latLong.longitude || -74.004118;
 

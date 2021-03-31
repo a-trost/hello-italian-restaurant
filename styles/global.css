@@ -2,15 +2,13 @@
   @apply text-gold;
 }
 
-.filter-shadow {
-  filter: drop-shadow(4px 4px 8px #000);
-}
+/* Location Map styles */
 
 .location-map {
-  grid-template-columns: minmax(0, auto) repeat(3, minmax(300px, 420px)) minmax(
-      0,
-      auto
-    );
+  grid-template-columns:
+    minmax(0, auto)
+    repeat(3, minmax(300px, 420px))
+    minmax(0, auto);
   @apply grid w-full min-h-full grid-rows-1;
   height: 500px;
 }
@@ -33,5 +31,5 @@
 
 .location-map img {
   transform: rotate(-10deg);
-  @apply self-center col-start-3 pointer-events-none justify-self-center;
+  @apply z-50 self-center col-start-3 row-start-1 pointer-events-none justify-self-center;
 }
