@@ -19,6 +19,9 @@ MySlice.propTypes = {
   slice: shape({
     primary: shape({
       title: array.isRequired,
+      location: shape({ latitude: number.isRequired }),
+      address: array.isRequired,
+      image: shape({ url: string.isRequired }),
     }).isRequired,
   }).isRequired,
 };
