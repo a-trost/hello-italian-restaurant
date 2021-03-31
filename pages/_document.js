@@ -32,6 +32,11 @@ export default class extends Document {
           <Main />
           <NextScript />
         </body>
+        <script
+          async
+          defer
+          src="https://static.cdn.prismic.io/prismic.js?new=true&repo=hello-restaurant"
+        ></script>
       </Html>
     );
   }
