@@ -1,0 +1,54 @@
+{
+  "id": "location_map",
+  "type": "SharedSlice",
+  "name": "LocationMap",
+  "description": "LocationMap",
+  "variations": [
+    {
+      "id": "default-slice",
+      "name": "Default slice",
+      "docURL": "...",
+      "version": "sktwi1xtmkfgx8626",
+      "description": "LocationMap",
+      "primary": {
+        "heading": {
+          "config": {
+            "label": "Heading",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "heading2"
+          },
+          "type": "StructuredText"
+        },
+        "address": {
+          "config": {
+            "label": "Address",
+            "placeholder": "",
+            "allowTargetBlank": true,
+            "single": "paragraph"
+          },
+          "type": "StructuredText"
+        },
+        "image": {
+          "config": {
+            "label": "Image",
+            "constraint": {
+              "width": 243,
+              "height": 365
+            },
+            "thumbnails": []
+          },
+          "type": "Image"
+        },
+        "location": {
+          "config": {
+            "label": "Location",
+            "placeholder": ""
+          },
+          "type": "GeoPoint"
+        }
+      },
+      "items": {}
+    }
+  ]
+}

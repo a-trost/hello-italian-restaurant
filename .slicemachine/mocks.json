@@ -58,5 +58,30 @@
         "content": "Cheese, tomato, spinach, olive oil"
       }
     }
+  },
+  "LocationMap": {
+    "primary": {
+      "heading": {
+        "config": {
+          "patternType": "HEADING",
+          "blocks": 1
+        }
+      },
+      "address": {
+        "config": {
+          "patternType": "PARAGRAPH",
+          "blocks": 1
+        }
+      },
+      "location": {
+        "content": {
+          "latitude": 48.8703712,
+          "longitude": 2.3865198
+        }
+      },
+      "image": {
+        "content": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05"
+      }
+    }
   }
 }

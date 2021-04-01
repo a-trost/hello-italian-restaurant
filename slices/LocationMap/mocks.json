@@ -1,0 +1,40 @@
+[
+  {
+    "id": "default-slice",
+    "name": "Default slice",
+    "docURL": "...",
+    "version": "sktwi1xtmkfgx8626",
+    "description": "LocationMap",
+    "primary": {
+      "heading": [
+        {
+          "type": "heading2",
+          "text": "Extend integrated infomediaries",
+          "spans": []
+        }
+      ],
+      "address": [
+        {
+          "type": "paragraph",
+          "text": "Deserunt consequat est ",
+          "spans": []
+        }
+      ],
+      "image": {
+        "dimensions": {
+          "width": 243,
+          "height": 365
+        },
+        "alt": "Placeholder image",
+        "copyright": null,
+        "url": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?w=243&h=365&fit=crop"
+      },
+      "location": {
+        "latitude": 48.8703712,
+        "longitude": 2.3865198
+      }
+    },
+    "items": [],
+    "slice_type": "location_map"
+  }
+]
