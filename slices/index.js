@@ -4,3 +4,4 @@ export { default as TextContent } from "./TextContent";
 export { default as LinkHeading } from "./LinkHeading";
 export { default as GalleryMosaic } from "./GalleryMosaic";
 export { default as MenuCategory } from "./MenuCategory";
+export { default as LocationMap } from './LocationMap'
